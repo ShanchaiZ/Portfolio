@@ -15,7 +15,6 @@ $(document).ready(function () {
     // slide-up script
     $(".scroll-up-btn").addClass(function () {
         $("html").animate({ scrollTop: 0 });
-
     });
 
 
